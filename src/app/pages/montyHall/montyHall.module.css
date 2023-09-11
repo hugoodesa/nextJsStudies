@@ -1,0 +1,27 @@
+.square {
+  width: 15vw;
+  height: 25vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0px 2px;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  width: 35vw;
+  flex-wrap: wrap;
+  height: 51vh;
+  background-color: rgb(78, 80, 80);
+}
+
+.game {
+  background-color: rgb(78, 80, 80);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
